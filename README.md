@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutik-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="shrutik-sinha" /> </p>
 
-- 🌱 I’m currently learning **Web Development and My Sql**
+- 🌱 I’m currently learning **Cyber Security and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shrutik-Sinha](https://github.com/Shrutik-Sinha)
 
